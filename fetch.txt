@@ -1,3 +1,4 @@
+# From http://web.archive.org/cdx/search/cdx?url=amillionpixels.us*&output=txt
 us,amillionpixels)/ 20060410074617 http://www.amillionpixels.us:80/ text/html 200 F27VHZRMQU4UE2V24B7JX6PUFVO3DFX5 13993
 us,amillionpixels)/ 20060412075420 http://www.amillionpixels.us:80/ text/html 200 OR4OPO3J7IPCTVNU4F3VLBEQVDH2OCVC 13998
 us,amillionpixels)/ 20060506032239 http://amillionpixels.us:80/ text/html 200 PIDZP4PXGHMKSGKLOEEEMEVVRV6CLEJ4 13979
